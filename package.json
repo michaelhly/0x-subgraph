@@ -8,7 +8,7 @@
     "create-local": "graph create michaelhly/0x --node http://127.0.0.1:8020",
     "build": "graph build",
     "deploy-local": "graph deploy michaelhly/0x --debug --ipfs /ip4/127.0.0.1/tcp/5001 --node http://127.0.0.1:8020",
-    "deploy": "graph deploy --debug michaelhly/zero_ex_events --ipfs https://api.thegraph.com/ipfs/ --node https://api.thegraph.com/deploy/",
+    "deploy": "graph deploy --debug michaelhly/zrx_exchange_rinkeby --ipfs https://api.thegraph.com/ipfs/ --node https://api.thegraph.com/deploy/",
     "watch-local": "graph deploy michaelhly/0x --watch --debug --node http://127.0.0.1:8020/ --ipfs http://localhost:5001"
   },
   "devDependencies": {
