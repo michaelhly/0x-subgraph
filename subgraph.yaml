@@ -1,6 +1,6 @@
 specVersion: 0.0.1
 description: A protocol for decentralized exchange of tokenized assets. Find open and filled orders.
-repository: https://github.com/graphprotocol/0x-subgraph
+repository: https://github.com/michaelhly/0x-subgraph
 schema:
   file: ./schema.graphql
 dataSources:
